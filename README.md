@@ -10,16 +10,7 @@ This repository contains a data analysis and predictive system for analyzing and
 - Contributing
 - License
 
-# Getting Started:
-To use this project, follow these steps:
-1. Clone the repository to your local machine:
-   git clone https://github.com/611noorsaeed/world-gdp-analysis.git
-   cd world-gdp-analysis
-2. Install the required Python libraries using pip:
-   pip install -r requirements.txt
-3. Run the Streamlit app:
-   streamlit run app.py
-4. Upload a CSV file containing GDP and country data.
+
 
 # Dashboard and Predictive System:
 The main feature of this project is the Streamlit dashboard and predictive system. Users can upload a CSV file, input features, and receive GDP predictions based on the provided data. The dashboard also offers data analysis and visualization.
