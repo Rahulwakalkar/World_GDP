@@ -8,7 +8,7 @@ This repository contains a data analysis and predictive system for analyzing and
 - Top 5 Countries per Region
 - Dependencies
 - Contributing
-- License
+
 
 
 
